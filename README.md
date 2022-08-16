@@ -1,3 +1,0 @@
-# fabrika-front
-
-yo
